@@ -6,7 +6,7 @@
  * [Topluluk kanalımız](https://t.me/corenodechat)<br>
  * [Topluluk Twitter](https://twitter.com/corenodeHQ)<br>
  * [Ojo Network Website](https://ojo.network/)<br>
- * [Blockchain Explorer](https://explorer.kjnodes.com/ojo-testnet/staking)<br>
+ * [Blockchain Explorer](https://agamotto.ojo.network/agamotto)<br>
  * [Discord](https://discord.gg/tygWr7JM2w)<br>
  * [Twitter](https://twitter.com/ojo_network)<br>
 
