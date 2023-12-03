@@ -20,7 +20,7 @@
 
 ## Oto kurulum
 ```
-curl -sSL -o ojo.sh https://raw.githubusercontent.com/molla202/Ojo-Network/main/ojo.sh && chmod +x ojo.sh && bash ./ojo.sh
+curl -sSL -o ojo.sh https://raw.githubusercontent.com/molla202/Ojo-Network-Agamotto/main/ojo.sh && chmod +x ojo.sh && bash ./ojo.sh
 ```
 ## Update & Kütüphane 
 ```
